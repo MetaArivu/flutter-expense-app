@@ -1,16 +1,5 @@
-# expense_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 12 Pro - 2021-08-25 at 20 35 47](https://user-images.githubusercontent.com/23295769/130816500-988df03a-4878-4ff8-bb56-f5d4de2bd863.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-08-25 at 20 38 04](https://user-images.githubusercontent.com/23295769/130816497-962d4c43-7244-4d29-a1d6-86cfa5f2a0d7.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-08-25 at 20 38 13](https://user-images.githubusercontent.com/23295769/130816495-4839b026-794c-4761-83aa-b9915bc215ce.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-08-25 at 20 38 23](https://user-images.githubusercontent.com/23295769/130816492-814d9dcb-283d-4c91-8df5-3460f74165b7.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-08-25 at 20 38 29](https://user-images.githubusercontent.com/23295769/130816480-960180d6-2238-4020-a785-37739c0b2f3d.png)
