@@ -1,1 +1,32 @@
-
+[
+  {
+    "name": "Blood"
+  },
+  {
+    "name": "Hypertension"
+  },
+  {
+    "name": "Arthritis"
+  },
+  {
+    "name": "Hypertension"
+  },
+  {
+    "name": "Cancer"
+  },
+  {
+    "name": "Cardiovascular"
+  },
+  {
+    "name": "Metabolic"
+  },
+  {
+    "name": "Neurological"
+  },
+  {
+    "name": "Respiratory"
+  },
+  {
+    "name": "Immune System"
+  }
+]
