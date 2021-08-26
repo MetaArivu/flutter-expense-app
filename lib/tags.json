@@ -1,32 +1,42 @@
 [
   {
+    "id":"1",
     "name": "Blood"
   },
   {
+    "id":"2",
     "name": "Hypertension"
   },
   {
+    "id":"3",
     "name": "Arthritis"
   },
   {
+    "id":"4",
     "name": "Hypertension"
   },
   {
+    "id":"5",
     "name": "Cancer"
   },
   {
+    "id":"6",
     "name": "Cardiovascular"
   },
   {
+    "id":"7",
     "name": "Metabolic"
   },
   {
+    "id":"8",
     "name": "Neurological"
   },
   {
+    "id":"9",
     "name": "Respiratory"
   },
   {
+    "id":"10",
     "name": "Immune System"
   }
 ]
